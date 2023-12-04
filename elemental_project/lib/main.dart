@@ -10,6 +10,7 @@ void main() {
   Flame.device.setLandscape();
 
   ElementalProject game = ElementalProject();
-  runApp(GameWidget(game: kDebugMode ? ElementalProject() : game),
+  runApp(
+    GameWidget(game: kDebugMode ? ElementalProject() : game),
   );
 }
