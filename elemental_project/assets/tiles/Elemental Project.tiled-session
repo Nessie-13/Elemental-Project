@@ -1,0 +1,93 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "general terrain.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Cloud 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Complete Earth background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "E01.tmx": {
+            "scale": 1.0360937499999998,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 329.12079625999104,
+                "y": 162.63007087920377
+            }
+        },
+        "Earth entities 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Earth entities 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Earth entities 3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Earth entities 4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Earth entity 5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Earth entity 6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "General Terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Sky.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "general terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/shanessapeiris/Documents/Sixth Form/Y13/Computer Science/KET/elemental_project/assets/tiles/Background",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "general terrain.tsx"
+    ],
+    "project": "Elemental Project.tiled-project",
+    "recentFiles": [
+        "general terrain.tsx",
+        "General Terrain.tsx",
+        "Earth entities 1.tsx",
+        "Earth entities 2.tsx",
+        "Earth entities 3.tsx",
+        "Earth entities 4.tsx",
+        "Earth entity 5.tsx",
+        "Earth entity 6.tsx",
+        "Sky.tsx",
+        "Complete Earth background.tsx",
+        "Cloud 1.tsx",
+        "E01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
